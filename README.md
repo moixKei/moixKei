@@ -26,15 +26,15 @@ Me encanta crear software robusto, elegante y con una estética suave tipo *saku
 
 ## 🛠 Tech Stack
 
-### 💻 Backend & Lenguajes
+### Backend & Lenguajes
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,spring,hibernate,swift" />
 
-### 🌐 Frontend & Bases de Datos
+### Frontend & Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,mongodb" />
 
-### 🔧 Herramientas
+### Herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,idea" />
 
@@ -51,7 +51,7 @@ Me encanta crear software robusto, elegante y con una estética suave tipo *saku
 
 ## 🌸 Proyectos Destacados
 
-### 🏥 mcAulley Management — Sistema Educativo
+### mcAulley Management — Sistema Educativo
 
 [![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
 
@@ -156,7 +156,7 @@ public class Alumna {
 
 ---
 
-### 💰 Gestor de Gastos Personales — Android
+### Gestor de Gastos Personales — Android
 
 [![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
 
@@ -289,7 +289,7 @@ class GastoViewModel : ViewModel() {
 
 ---
 
-### 🛍️ KitagawaStore — E-commerce API
+### KitagawaStore — E-commerce API
 
 [![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
 
@@ -401,7 +401,7 @@ namespace app_API_proyecto.Controllers
 
 ## 📚 Skills & Metodología
 
-### 🎯 Competencias
+### Competencias
 
 * Arquitecturas empresariales
 * Apps Android nativas
@@ -409,13 +409,13 @@ namespace app_API_proyecto.Controllers
 * MVC, Repository, DI
 * SQL optimizado
 
-### 🌱 Aprendiendo
+### Aprendiendo
 
 * Spring Boot
 * Microservicios
 * Clean Architecture
 
-### 💫 Forma de trabajo
+### Forma de trabajo
 
 ```yaml
 valores:
