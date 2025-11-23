@@ -1,4 +1,4 @@
-<h2 align="center">🌸 Kei — Desarrolladora Full Stack</h2>
+<h2 align="center">🌸 Xiomara — Desarrolladora Full Stack</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4A7C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Clean+Code+%26+Aesthetic+Designs;Java+%7C+Kotlin+%7C+C%23+%7C+Swift" />
@@ -12,7 +12,7 @@
 object Kei {
     const val NAME = "Kei"
     val SPECIALTIES = listOf("Backend", "Frontend", "Mobile")
-    val TECH_STACK = listOf("Java", "Kotlin", "C#", "React", "SQL")
+    val TECH_STACK = listOf("Java", "Kotlin", "C#", "React", "SQL", "Swift")
 
     fun passion() = "Crear soluciones limpias, escalables y bien diseñadas"
     fun focus() = "Desarrollo full stack y apps empresariales"
@@ -20,7 +20,7 @@ object Kei {
 ```
 
 Soy una desarrolladora centrada en backend empresarial, frontend moderno y apps móviles.
-Me encanta crear software robusto, elegante y con una estética suave tipo *sakura* 🌸.
+Me encanta crear software robusto, elegante y con una estética suave 🌸.
 
 ---
 
@@ -53,7 +53,7 @@ Me encanta crear software robusto, elegante y con una estética suave tipo *saku
 
 ### mcAulley Management — Sistema Educativo
 
-[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moixKei/mcAulley_management)
 
 **Tecnologías:** Java • JPA • Hibernate • MySQL
 
@@ -158,7 +158,7 @@ public class Alumna {
 
 ### Gestor de Gastos Personales — Android
 
-[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moixKei/Gestor_Gasto)
 
 **Tecnologías:** Kotlin • Room • Material Design
 
@@ -291,9 +291,9 @@ class GastoViewModel : ViewModel() {
 
 ### KitagawaStore — E-commerce API
 
-[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](LINK-AQUI)
+[![Repo](https://img.shields.io/badge/%F0%9F%94%97_Repositorio-f9a8d4?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/moixKei/KitagawaStore_Plataform)
 
-**Tecnologías:** C# • ASP.NET Core • EF Core
+**Tecnologías:** C# • ASP.NET Core 
 
 <details>
 <summary>🌸 Ver código</summary>
