@@ -1,18 +1,15 @@
-<h2 align="center">🌸 Xiomara — Desarrolladora Full Stack</h2>
-
+<h2 align="center">🌸 Xiomara — Desarrolladora Full Stack</h2> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4A7C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Clean+Code+%26+Aesthetic+Designs;Java+%7C+Kotlin+%7C+C%23+%7C+Swift" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4A7C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Clean+Code+%26+Aesthetic+Designs;Java+%7C+Kotlin+%7C+C%23+%7C+React" />
 </p>
-
----
 
 ## 🌺 Sobre Mí
 
 ```kotlin
 object Kei {
-    const val NAME = "Kei"
+    const val NAME = "Xiomara"
     val SPECIALTIES = listOf("Backend", "Frontend", "Mobile")
-    val TECH_STACK = listOf("Java", "Kotlin", "C#", "React", "SQL", "Swift")
+    val TECH_STACK = listOf("Java", "Kotlin", "C#", "React", "SQL", "Postman", ".NET")
 
     fun passion() = "Crear soluciones limpias, escalables y bien diseñadas"
     fun focus() = "Desarrollo full stack y apps empresariales"
@@ -20,7 +17,8 @@ object Kei {
 ```
 
 Soy una desarrolladora centrada en backend empresarial, frontend moderno y apps móviles.
-Me encanta crear software robusto, elegante y con una estética suave 🌸.
+Apasionada por crear arquitecturas sólidas, APIs eficientes y experiencias intuitivas.
+Busco siempre el equilibrio entre robustez técnica y diseño elegante 🌸.
 
 ---
 
@@ -28,24 +26,21 @@ Me encanta crear software robusto, elegante y con una estética suave 🌸.
 
 ### Backend & Lenguajes
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,spring,hibernate,swift" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,spring,hibernate,net" />
 
 ### Frontend & Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,mysql,mongodb" />
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,idea,postman" />
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=moixKei&show_icons=true&hide_border=true&bg_color=fdf2f8&title_color=db2777&icon_color=f472b6&text_color=be185d" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moixKei&layout=compact&hide_border=true&bg_color=fdf2f8&title_color=db2777&text_color=be185d" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moixKei&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f472b6&text_color=f3f4f6&hide=issues&count_private=true&include_all_commits=true" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moixKei&layout=compact&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=f3f4f6&langs_count=8&hide=html,css,scss" width="350" /> <img src="https://streak-stats.demolab.com/?user=moixKei&theme=rose&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" /> </div>
 
 ---
 
@@ -411,7 +406,7 @@ namespace app_API_proyecto.Controllers
 
 ### Aprendiendo
 
-* Spring Boot
+* Swift
 * Microservicios
 * Clean Architecture
 
